@@ -231,7 +231,7 @@ polling-uri2=notifications/contoso2.xml; polling-uri3=notifications/contoso3.xml
 <link rel="archives" title="May 2003" href="http://www.example.com/2003/05/">
 <link rel="index" title="DeWitt Clinton" href="http://www.example.com/">
 <link rel="start" title="Pattern Recognition 1" href="http://www.example.com/photos/pattern_recognition_1_about/">
-<link rel="bookmark'title="Styleguide" href="http://www.example.com/about/styleguide/">
+<link rel="bookmark" title="Styleguide" href="http://www.example.com/about/styleguide/">
 <link rel="search" href="/search.xml" type="application/opensearchdescription+xml" title="Viatropos">
 
 <link rel="self" type="application/atom+xml" href="http://www.example.com/atomFeed.php?page=3">
