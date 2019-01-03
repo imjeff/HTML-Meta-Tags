@@ -68,6 +68,8 @@ minimum-scale：允许用户缩放到的最小比例。
 user-scalable：用户是否可以手动缩放。 
 -->
 <meta name="viewport" content="initial-scale=1, maximum-scale=3, minimum-scale=1, user-scalable=no">
+<!-- 保留历史记录以及动画效果 -->
+<meta name="App-Config" content="fullscreen=yes,useHistoryState=yes,transition=yes">
 ```
 
 ## 公司/服务专用 Meta 标签
